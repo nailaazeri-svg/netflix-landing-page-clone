@@ -18,7 +18,10 @@ https://nailaazeri-svg.github.io/netflix-landing-page-clone/
 - Mobile friendly design
 
 ## 📸 Preview
-(Add screenshot here later)
+
+![Desktop Preview](screenshot-desktop.png)
+
+![Mobile Preview](screenshot-mobile.png)
 
 ## 👩‍💻 Author
 Naila Azeri
