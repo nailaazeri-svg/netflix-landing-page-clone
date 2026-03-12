@@ -29,3 +29,9 @@ This project replicates the Netflix homepage design while focusing on layout, re
 
 ## 👩‍💻 Author
 Naila Azeri
+
+## 🔗 Repository
+
+https://github.com/nailaazeri-svg/netflix-landing-page-clone
+
+
