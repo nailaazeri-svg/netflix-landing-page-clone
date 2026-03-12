@@ -8,12 +8,14 @@ This project replicates the Netflix homepage design while focusing on layout, re
 🔗 https://nailaazeri-svg.github.io/netflix-landing-page-clone/
 
 ## 🛠 Technologies Used
+
 - HTML5
 - CSS3
 - Flexbox
 - Responsive Design
 
 ## 📱 Features
+
 - Responsive layout
 - Netflix-style hero section
 - FAQ section
@@ -28,7 +30,10 @@ This project replicates the Netflix homepage design while focusing on layout, re
 ![Mobile Preview](screenshot-mobile.png)
 
 ## 👩‍💻 Author
-Naila Azeri
+
+**Naila Azeri**
+
+GitHub: https://github.com/nailaazeri-svg
 
 ## 🔗 Repository
 
